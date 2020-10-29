@@ -5,13 +5,13 @@
 
 ## About
 
-Well I decided to leave visual studio code and start working in neovim, at first it was difficult for me to adapt and so many commands, then I realized that I was missing things to be able to work effectively. At that time I knew about the add-ons or plugs for vim and neovim, I could add several and then I began to see vim config from several people where I took things that interested me, in the end I was left with this, I hope you like it.
+Well I decided to leave visual studio code and conventional editors, I start working in neovim, at first it was difficult for me to adapt and so many commands this was new to me, then I realized that I was missing things to be able to work effectively. At that time I knew about the add-ons or plugs for vim and neovim, I could add several and then I began to see vim config from several people where I took things that interested me, in the end I was left with this, I hope you like it.
 
 ## Required components
 
 ### You need:
- - Vim or neovim;
- - A folderfor the plugs in ~/.config/nvim;
+ - Vim or neovim (last version preferably);
+ - A folder for the plugs in ~/.config/nvim;
  - "you may have problems with the folders but it would only be to name them correctly";
  
 ### Plugs:
@@ -26,6 +26,6 @@ Well I decided to leave visual studio code and start working in neovim, at first
 ## Final Notes
 
 - Clearly all this code is not mine, just combine things and add the ones that I thought were essential.
-- If you need to ask something my twitter is open and my discord.
+- If you need to ask something my twitter and my discord is open.
 - I wanted to add the configuration of "coc-vim" since it can give some problems without it.
 
