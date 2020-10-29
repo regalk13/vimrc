@@ -23,7 +23,7 @@ Well I decided to leave visual studio code and start working in neovim, at first
 - [Discord_nvim](https://github.com/aurieh/discord.nvim) (Discord rich precense)
 - [fzf](https://github.com/junegunn/fzf.vim) (Files)
 
-## Final Clarifications
+## Final Notes
 
 - Clearly all this code is not mine, just combine things and add the ones that I thought were essential.
 - If you need to ask something my twitter is open and my discord.
