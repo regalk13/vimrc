@@ -1,6 +1,7 @@
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
 
 # My VimConfig
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
 
 ## About
 
@@ -15,12 +16,12 @@ Well I decided to leave visual studio code and start working in neovim, at first
  
 ### Plugs:
 "I hope I don't miss any"
-- [Crtpl-vim](https://github.com/kien/ctrlp.vim)(Files)
-- [Gruvbox](https://github.com/morhetz/gruvbox)(Themes)
-- [Nerdtree](https://github.com/preservim/nerdtree)(Files)
-- [Coc-vim](https://github.com/neoclide/coc.nvim)(Auto Completed)
-- [Discord_nvim](https://github.com/aurieh/discord.nvim)(Discord rich precense)
-- [fzf](https://github.com/junegunn/fzf.vim)(Files)
+- [Crtpl-vim](https://github.com/kien/ctrlp.vim) (Files)
+- [Gruvbox](https://github.com/morhetz/gruvbox) (Themes)
+- [Nerdtree](https://github.com/preservim/nerdtree) (Files)
+- [Coc-vim](https://github.com/neoclide/coc.nvim) (Auto Completed)
+- [Discord_nvim](https://github.com/aurieh/discord.nvim) (Discord rich precense)
+- [fzf](https://github.com/junegunn/fzf.vim) (Files)
 
 ## Final Clarifications
 
