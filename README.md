@@ -1,5 +1,5 @@
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
 
 # My Neovim & Vim config
 
