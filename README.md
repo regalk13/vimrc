@@ -1,6 +1,5 @@
 
-# My VimConfig
-
+# My Neovim & Vim config
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
 
 ## About
