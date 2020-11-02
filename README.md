@@ -15,7 +15,6 @@ Well I decided to leave visual studio code and conventional editors, I start wor
  - "you may have problems with the folders but it would only be to name them correctly";
  
 ### Plugs:
-"I hope I don't miss any"
 - [Crtpl-vim](https://github.com/kien/ctrlp.vim) (Files)
 - [Gruvbox](https://github.com/morhetz/gruvbox) (Themes)
 - [Nerdtree](https://github.com/preservim/nerdtree) (Files)
